@@ -1,0 +1,6 @@
+{
+  "name": "CostMate | كُلفة",
+  "description": "منصة محاسبة التكاليف وإدارة هوامش الأرباح للمشاريع الصغيرة والمتوسطة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
